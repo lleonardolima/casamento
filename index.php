@@ -24,7 +24,7 @@
         </div>
         <div id="banner" class="image-container">
             <img id="icon_rings" src="img/foto-5.jpg">
-            <h1>Drielle Caires & Leonardo Santos</h1>
+            <h1>Drih Caires & Leo Santos</h1>
             <p>22 de Novembro de 2025</p>
         </div>
         <section id="contagem">
